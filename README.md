@@ -6,4 +6,7 @@ cd  to move folders
 //open shell git to generate code sercret
 openssl rand -base64 32
 //https://tailwindcss.com/docs/installation
+npm install -D tailwindcss
+npx tailwindcss init
 //https://daisyui.com/
+//npm i -D daisyui@latest
