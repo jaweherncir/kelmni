@@ -5,3 +5,5 @@ cd  to move folders
 //to create nodejs server: npm init -y
 //open shell git to generate code sercret
 openssl rand -base64 32
+//https://tailwindcss.com/docs/installation
+//https://daisyui.com/
